@@ -1,0 +1,11 @@
+.span{
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    cursor: pointer;
+}
+
+.span span{
+    font-weight: 200;
+    color: #777;
+}
