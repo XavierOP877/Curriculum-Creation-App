@@ -82,7 +82,7 @@ const Main = () => {
             <Ul className={styles.detailsTab}>
                 <div className={styles.action}>
                     <p>Action</p>
-                    <span>Move, Ident, Outdent, Delete</span>
+                    <span>Move, Indent, Outdent, Delete</span>
                 </div>
                 <div className={styles.detail}>
                     <p>Standard</p>
